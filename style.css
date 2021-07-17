@@ -1,0 +1,7 @@
+body {
+    padding: 2rem;
+}
+p {
+    width: clamp(45ch, 90%, 70ch);
+    line-height: 1.5;
+}
